@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MVVMTest</string>
+    <string name="main_text">MVVM 테스트</string>
+    <string name="sub_text"></string>
+    <string name="main_btn">꾸욱~ 하고 눌러죠잉ㅎ_ㅎ</string>
 </resources>
